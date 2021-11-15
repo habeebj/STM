@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhyme.Console.Q1", "Rhyme.Console\Rhyme.Console.Q1.csproj", "{AD3B887B-FE11-4D18-8147-22C177503316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhyme.Console.Q1", "Rhyme.Console.Q1\Rhyme.Console.Q1.csproj", "{AD3B887B-FE11-4D18-8147-22C177503316}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhyme.Core", "Rhyme.Core\Rhyme.Core.csproj", "{1C97B88A-FC36-4BE1-A1F6-AE1572A21198}"
 EndProject
