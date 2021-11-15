@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhyme.Console.Q2", "Rhyme.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhyme.Console.Q3", "Rhyme.Console.Q3\Rhyme.Console.Q3.csproj", "{8E03A4BF-8E54-46F1-A15D-58200616BC5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhyme.Tests", "Rhyme.Tests\Rhyme.Tests.csproj", "{9E94D3A4-588C-4799-BA0E-F18F692B13D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8E03A4BF-8E54-46F1-A15D-58200616BC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E03A4BF-8E54-46F1-A15D-58200616BC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E03A4BF-8E54-46F1-A15D-58200616BC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E94D3A4-588C-4799-BA0E-F18F692B13D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E94D3A4-588C-4799-BA0E-F18F692B13D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E94D3A4-588C-4799-BA0E-F18F692B13D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E94D3A4-588C-4799-BA0E-F18F692B13D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
