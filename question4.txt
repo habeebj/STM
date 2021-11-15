@@ -1,0 +1,2 @@
+I will provide a .pot or .rexs localisation file.
+These files format have numerous editors that can help non-technical transaltors to transalte easily.
