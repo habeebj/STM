@@ -1,4 +1,5 @@
-﻿using Rhyme.Core;
+﻿using Rhyme.Console.Q1.Animals;
+using Rhyme.Core;
 using Rhyme.Core.Abstracts;
 using Rhyme.Core.Loaders;
 using Rhyme.Core.Polymorphism;
@@ -6,7 +7,9 @@ using Rhyme.Core.Polymorphism;
 var dog = new Dog();
 var cat = new Cat();
 var duck = new Duck();
-var animals = new List<IAnimal> { dog, cat, duck };
+var bee = new Bee();
+var cricket = new Cricket();
+var animals = new List<IAnimal> { dog, cat, duck, bee, cricket };
 
 // Polymorphism
 System.Console.WriteLine("Polymorphism");

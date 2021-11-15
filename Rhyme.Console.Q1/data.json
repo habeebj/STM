@@ -2,5 +2,21 @@
     {
         "Name": "Dog",
         "Sound": "Bark"
+    },
+    {
+        "Name": "Cat",
+        "Sound": "Meow"
+    },
+    {
+        "Name": "Duck",
+        "Sound": "Quack"
+    },
+    {
+        "Name": "Bee",
+        "Sound": "Buzz"
+    },
+    {
+        "Name": "Cricket",
+        "Sound": "Chirp"
     }
 ]
